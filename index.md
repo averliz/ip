@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# User Guide
+## Introduction
+Welcome to Duke, a personal assistant to assist you in managing your various tasks varying from simple todos to pressing deadlines and finally events. Duke helps you organise your day so that you can focus on whats most important in life! 
 
-You can use the [editor on GitHub](https://github.com/averliz/ip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Types of tasks
+### Todo
+Simplest form of tasks that you can be recorded on Duke. Simply simple tasks with no deadline or timing! 
+### Deadline 
+A form of task that contains a deadline that you must complete by! 
+### Event 
+A form of task that has a duration or timing associated with it! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Duke Features 
+### Add Tasks 
+You can add different types of tasks using the corresponding command words - todo, deadline, event
+### View Tasks 
+You can view the tasks that you have using the command - list 
+### Remove Tasks
+You can remove tasks that are no longer relavant or tasks that may have been added by mistaks using the command - delete 
+### Mark Completed Tasks 
+You can make tasks once completed using the command - done
+### Find Tasks
+You can locate tasks with corresponding keyword using the command - find
+### Save Task List
+You can save Task List using the command - save 
+### Load Task List
+You can load Task List using the command - load 
+### Help Feature
+You can view all commands using the help feature with the corresponding command word - help
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/averliz/ip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
